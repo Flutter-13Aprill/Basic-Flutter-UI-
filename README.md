@@ -1,15 +1,16 @@
-# Basic-Flutter-UI
+# my_app
 
+A new Flutter project.
 
-## 🎯 Objective:
+## Getting Started
 
-Create a Flutter app with:
+This project is a starting point for a Flutter application.
 
-- An AppBar titled "My Info"
-- A Drawer with a simple menu item
-- A Body that displays your name and age
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 📅 Deadline
-
-Your project must be submitted by 24st, before 10:00 AM** ⏰
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
